@@ -25,7 +25,7 @@ git clone https://github.com/y/tic-tac-toe.git
 ```bash
 python tic_tac_toe.py
 ```
-## Installation
+## Usage
 - Upon launching the game, follow the on-screen instructions to sign up or log in.
 - Once logged in, you'll be directed to the main menu where you can start a new game, view your profile, check the scoreboard, or log out.
 - During gameplay, select your moves by entering the position number corresponding to the cell on the board.
