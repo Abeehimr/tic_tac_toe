@@ -19,7 +19,7 @@ This project was developed as the final project for the CS50 Introduction to Pro
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/y/tic-tac-toe.git
+git clone https://github.com/Abeehimr/tic_tac_toe
 ```
 2. Run the main Python file:
 ```bash
